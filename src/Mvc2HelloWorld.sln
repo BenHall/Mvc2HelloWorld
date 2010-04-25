@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc2HelloWorld", "Mvc2HelloWorld\Mvc2HelloWorld.csproj", "{0F200F35-C38F-4ED2-8EB4-F39E8936D509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc2HelloWorld.Tests", "Mvc2HelloWorld.Tests\Mvc2HelloWorld.Tests.csproj", "{50326793-D853-40E4-A82F-B7C06DD4A89E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F200F35-C38F-4ED2-8EB4-F39E8936D509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F200F35-C38F-4ED2-8EB4-F39E8936D509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F200F35-C38F-4ED2-8EB4-F39E8936D509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F200F35-C38F-4ED2-8EB4-F39E8936D509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50326793-D853-40E4-A82F-B7C06DD4A89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50326793-D853-40E4-A82F-B7C06DD4A89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50326793-D853-40E4-A82F-B7C06DD4A89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50326793-D853-40E4-A82F-B7C06DD4A89E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
